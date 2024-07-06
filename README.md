@@ -21,15 +21,15 @@ Here are some of the projects I've worked on:
 • Implemented functionalities like user authentication, video uploads, commenting, replying, subscription management, etc, using the Mongoose aggregation pipeline.
 • incoperated JWT, and bcrypt for password hashing and implemented secure token management with access and refresh tokens. 
 
- Github link: https://github.com/akarsh2312/TubeTime
+  Github link: https://github.com/akarsh2312/TubeTime
 
-BLOGIFY : Blogify is a blog app where user can read, write and edit their blogs.
+- BLOGIFY : Blogify is a blog app where user can read, write and edit their blogs.
  • Developed a robust blogging application using React.js,Redux, and React Hook Forms integrated with Appwrite backend services.
  • Implemented Redux and Redux Toolkit for efficient state management and streamlined data flow throughout the blogging platform.
  • Leveraged React Hook Forms for form validation and management,enhancing user input experience and ensuring data integrity while adhering to production‑grade coding
  practices.
 
-Deployed Link: https://appwrite-vite-blog-app.vercel.app/
+  Deployed Link: https://appwrite-vite-blog-app.vercel.app/
 ## 📚 Education
 
 -Btech+ MBA   at IIIT, Gwalior.
