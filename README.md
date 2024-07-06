@@ -1,4 +1,4 @@
-## Hey, I'm Dev Johri👋
+## Hey, I'm Akarsh Khandelwal👋
 
 Final year IT undergraduate (2024) at IIIT Gwalior, India. Passionate about Coding and reading. I'm eager to learn and contribute to exciting projects in Information Technology. I believe in the power of technology to solve real-world problems and positively impact society.
 
@@ -16,10 +16,10 @@ Here are some of the projects I've worked on:
 
   Deployed Link:- -https://notion-clone-incruder1.vercel.app
 
--  TUBETIME: A complete backend of video streaming platform where user can stream videos,upload them,with like, comment,share and subscribe functions with addition functionality of tweeting.
+- TUBETIME: A complete backend of video streaming platform where users can stream videos  and upload them, with like, comment,share, and subscribe functions with the additional functionality of tweeting.
 • Developed a robust backend of video streaming platform using Node.js, Express.js, MongoDB, Mongoose, JWT, bcrypt,cloudinary, etc.
-• Implementedfunctionalities like user authentication, video uploads, like commenting,     replying, subscription management etc using the mongoose aggregation pipeline.
-• Incoperated JWT,bcryptforpasswordhashing, and implemented secure token management with access and refresh tokens. 
+• Implemented functionalities like user authentication, video uploads, commenting, replying, subscription management, etc, using the Mongoose aggregation pipeline.
+• incoperated JWT, and bcrypt for password hashing and implemented secure token management with access and refresh tokens. 
 
  Github link: https://github.com/akarsh2312/TubeTime
 
@@ -39,7 +39,7 @@ Deployed Link: https://appwrite-vite-blog-app.vercel.app/
 
 -• Solved over 500 plus DSA problems over different platforms.
 • Achieved pre-finalist status in the 2019 IEEE Hexagon competition
-• Successfully contributed in HACTOBERFEST 2019, 2021 and 2022.
+• Successfully contributed to HACTOBERFEST 2019, 2021, and 2022.
 
 ## 📫 Get in Touch
 
